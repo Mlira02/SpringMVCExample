@@ -12,6 +12,7 @@
 </head>
 <body>
     <h2>This is the main page yayyyy!!</h2>
-<a href="showform"> Hello world form</a>
+<a href="/hello/showform"> Hello world form</a>
+<a href="/student/showForm">Student form</a>
 </body>
 </html>
